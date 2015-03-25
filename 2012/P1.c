@@ -1,3 +1,6 @@
+// 2012 Problem 1
+// Equilibrium Index
+
 #include <stdio.h>
 
 int main()
