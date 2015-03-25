@@ -1,3 +1,6 @@
+# 2014 Problem 2
+# Look and Say
+
 lst = [i for i in input().split()]
 
 s = str(lst[0])
