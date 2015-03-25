@@ -1,3 +1,6 @@
+# 2013 Problem 4
+# Ghostbusters and Ghosts Gun Grappple
+
 n, r = [int(i) for i in input().split()]
 ghosts = []
 busters = []
