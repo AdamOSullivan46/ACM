@@ -8,6 +8,7 @@ def Check(lst):
                 continue
             if num1+num2 in lst:
                 return 0
+    print("Jeff")
     return 1
 
 N = int(input())
