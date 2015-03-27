@@ -30,4 +30,8 @@ for order in range(n):
         except:
             break
     lst = newLst
-print(lst)
+
+
+for i in lst:
+    print(i, end=' ')
+print()
